@@ -1,1 +1,1 @@
-0. Hello World
+write a script that print "Hello world"
